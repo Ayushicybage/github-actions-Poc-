@@ -1,0 +1,27 @@
+name: "Java Build Action"
+description: "Reusable action to build a Java project with Maven"
+inputs:
+  java-version:
+    description: "Java version to use"
+    required: true
+    default: "17"
+outputs:
+  jar-file:
+    description: "Path of generated JAR file"
+runs:
+  using: "composite"
+  steps:
+    - name: Set up JDK
+      uses: actions/setup-java@v4
+      with:
+        distribution: temurin
+        java-version: ${{ inputs.java-version }}
+        cache: maven
+
+    - name: Build with Maven
+      run: mvn -B clean package
+      shell: bash
+
+    - name: Export JAR path
+      run: echo "jar-file=$(ls target/*.jar | head -n 1)" >> $GITHUB_OUTPUT
+      shell: bash

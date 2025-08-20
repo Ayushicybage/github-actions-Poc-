@@ -1,0 +1,20 @@
+name: Build using Composite Action
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Run composite build
+        id: build
+        uses: ./.github/actions/java-build
+        with:
+          java-version: "17"
+
+      - name: Use output
+        run: echo "The JAR file is at ${{ steps.build.outputs.jar-file }}"
