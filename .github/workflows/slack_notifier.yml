@@ -77,7 +77,7 @@ jobs:
         with:
           payload: |
             {
-              "text": ":boom: Deploy failed for *${{ github.repository }}*. Please investigate."
+              "text": ":boom: Deploy failed for *${{ github.repository }}*. Please be investigate."
             }
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
