@@ -32,10 +32,4 @@ jobs:
         run: mvn -B verify org.sonarsource.scanner.maven:sonar-maven-plugin:sonar -Dsonar.projectKey=Namitago_github-actions-Pocs
       - name: debug steps
         run: ls -R
-      - name: Wait for Quality Gate
-        uses: sonarsource/sonarqube-quality-gate-action@master
-        with:
-            scanMetadataReportFile: my-app/.scannerwork/report-task.txt
-            pollingTimeoutSec: 300
-        env:
-          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
+
