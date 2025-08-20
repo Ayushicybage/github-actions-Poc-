@@ -17,7 +17,7 @@
   </dependencies>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-     <sonar.organization>namitago</sonar.organization>
+     <sonar.organization>ayushicybage</sonar.organization>
      <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   </properties>
   <build>
