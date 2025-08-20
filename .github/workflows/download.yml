@@ -40,7 +40,7 @@ jobs:
       - name: Deploy JAR
         run: |
           echo "Deploying application..."
-          java -jar ./artifact/*.
+          java -jar ./artifact/*.jar
           
 
 
