@@ -3,7 +3,7 @@ description: "Reusable action to build a Java project with Maven"
 inputs:
   java-version:
     description: "Java version to use"
-    required: true
+    required: false
     default: "17"
 outputs:
   jar-file:
