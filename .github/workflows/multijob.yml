@@ -1,0 +1,28 @@
+name: Multi-Job Pipeline
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build Project
+        run: echo "Building project..."
+
+  test:
+    runs-on: ubuntu-latest
+    needs: build       # 👈 test waits for build
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run Tests
+        run: echo "Running tests..."
+
+  deploy:
+    runs-on: ubuntu-latest
+    needs: test        # 👈 deploy waits for test
+    steps:
+      - name: Deploy App
+        run: echo "Deploying app..."

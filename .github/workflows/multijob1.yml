@@ -1,0 +1,23 @@
+name: Multi-Job Pipeline
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Linting code..."
+
+  security:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Running security scan..."
+
+  package:
+    runs-on: ubuntu-latest
+    needs: [lint, security]   # 👈 waits for both jobs
+    steps:
+      - run: echo "Packaging app..."
+
