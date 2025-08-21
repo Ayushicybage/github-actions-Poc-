@@ -1,0 +1,12 @@
+name: CI with Self Hosted Runner
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: self-hosted   # 👈 This targets your runner
+    steps:
+      - uses: actions/checkout@v4
+      - run: echo "Running on my own runner!"
