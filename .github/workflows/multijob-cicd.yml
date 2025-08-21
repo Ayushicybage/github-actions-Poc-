@@ -50,7 +50,7 @@ jobs:
       - name: SonarQube Scan
         run: mvn sonar:sonar -Dsonar.projectKey=Ayushicybage_github-actions-Poc- -Dsonar.organization=ayushicybage -Dsonar.host.url=https://sonarcloud.io -Dsonar.login=${{ secrets.SONAR_TOKEN }}
 
-  # 4️⃣ Docker Build & Push (depends on Sonar)
+    # 4️⃣ Docker Build & Push (depends on Sonar)
   docker:
     runs-on: ubuntu-latest
     needs: sonar
@@ -77,16 +77,20 @@ jobs:
         run: |
           IMAGE_NAME=myapp
           DOCKER_TAG=${{ github.sha }}
-          
-          # Build image
+          OWNER=$(echo "${{ github.repository_owner }}" | tr '[:upper:]' '[:lower:]')
+
+          # Build image with both tags
           docker build -t ${{ secrets.DOCKER_USERNAME }}/$IMAGE_NAME:$DOCKER_TAG \
-                       -t ghcr.io/${{ github.repository_owner }}/$IMAGE_NAME:$DOCKER_TAG .
+                       -t ghcr.io/$OWNER/$IMAGE_NAME:$DOCKER_TAG \
+                       -t ghcr.io/$OWNER/$IMAGE_NAME:latest .
 
           # Push to Docker Hub
           docker push ${{ secrets.DOCKER_USERNAME }}/$IMAGE_NAME:$DOCKER_TAG
-          
-          # Push to GHCR
-          docker push ghcr.io/${{ github.repository_owner }}/$IMAGE_NAME:$DOCKER_TAG
+
+          # Push to GHCR (both commit SHA + latest)
+          docker push ghcr.io/$OWNER/$IMAGE_NAME:$DOCKER_TAG
+          docker push ghcr.io/$OWNER/$IMAGE_NAME:latest
+
 
   # 5️⃣ Deploy (depends on Docker)
   deploy:
