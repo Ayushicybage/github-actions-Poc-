@@ -1,0 +1,38 @@
+name: Two Runner Workflow
+
+on: [push]
+
+jobs:
+  # Job 1: Runs on Ubuntu
+  job-ubuntu:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Ubuntu - Print OS Info
+        run: |
+          echo "Running on Ubuntu"
+          uname -a
+
+      - name: Ubuntu - Run sample commands
+        run: |
+          echo "Listing files in the repo:"
+          ls -la
+
+  # Job 2: Runs on Windows
+  job-windows:
+    runs-on: self-hosted
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Windows - Print OS Info
+        run: |
+          echo "Running on Windows"
+          systeminfo | findstr /B /C:"OS Name" /C:"OS Version"
+
+      - name: Windows - Run sample commands
+        run: |
+          echo "Listing files in the repo:"
+          dir
