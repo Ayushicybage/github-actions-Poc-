@@ -6,8 +6,23 @@ jobs:
   demo:
     runs-on: ubuntu-latest
     steps:
+      # 1️⃣ Checkout the repo
       - uses: actions/checkout@v4
+
+      # 2️⃣ Setup Node.js
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+
+      # 3️⃣ Install dependencies for local JS action
+      - name: Install JS Action dependencies
+        run: |
+          cd ./.github/actions/JS-action
+          npm install
+
+      # 4️⃣ Run the local JS action
       - name: Run JS Action
-        uses: ./.github/actions/JS-action   # local action
+        uses: ./.github/actions/JS-action
         with:
           name: Ayushi
