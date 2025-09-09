@@ -1,4 +1,4 @@
-name: Demo Workflow
+name: JS Workflow
 
 on: [push]
 
@@ -8,6 +8,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Run JS Action
-        uses: ./my-js-action   # local action
+        uses: ./JS-action   # local action
         with:
           name: Ayushi
