@@ -1,0 +1,12 @@
+﻿{
+  "repositoryName": "Ayushicybage/github-actions-Poc-",
+  "pipelineDirectory": "github-actions-Poc-",
+  "workspaceDirectory": "github-actions-Poc-\\github-actions-Poc-",
+  "repositories": {
+    "Ayushicybage/github-actions-Poc-": {
+      "repositoryPath": "github-actions-Poc-\\github-actions-Poc-",
+      "lastRunOn": "09/09/2025 16:22:59 +05:30"
+    }
+  },
+  "lastRunOn": "09/09/2025 16:48:02 +05:30"
+}

@@ -1,0 +1,640 @@
+[2025-09-09 10:52:45Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2025-09-09 10:52:45Z INFO HostContext] Well known directory 'Bin': 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\bin'
+[2025-09-09 10:52:45Z INFO HostContext] Well known directory 'Root': 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0'
+[2025-09-09 10:52:45Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials'
+[2025-09-09 10:52:46Z INFO HostContext] Well known directory 'Bin': 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\bin'
+[2025-09-09 10:52:46Z INFO HostContext] Well known directory 'Root': 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0'
+[2025-09-09 10:52:46Z INFO HostContext] Well known config file 'Runner': 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.runner'
+[2025-09-09 10:52:46Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2025-09-09 10:52:46Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.22631.
+[2025-09-09 10:52:46Z INFO Listener] Version: 2.328.0
+[2025-09-09 10:52:46Z INFO Listener] Commit: 6f9a9110adce65f44ca6f7c0ae142b9cc6af937b
+[2025-09-09 10:52:46Z INFO Listener] Culture: en-IN
+[2025-09-09 10:52:46Z INFO Listener] UI Culture: en-US
+[2025-09-09 10:52:46Z INFO HostContext] Well known directory 'Bin': 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\bin'
+[2025-09-09 10:52:46Z INFO HostContext] Well known directory 'Root': 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0'
+[2025-09-09 10:52:46Z INFO Listener] Validating directory permissions for: 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0'
+[2025-09-09 10:52:46Z INFO CommandLineParser] Parse
+[2025-09-09 10:52:46Z INFO CommandLineParser] Parsing 1 args
+[2025-09-09 10:52:46Z INFO CommandLineParser] parsing argument
+[2025-09-09 10:52:46Z INFO CommandLineParser] HasArgs: False
+[2025-09-09 10:52:46Z INFO CommandLineParser] Adding Command: run
+[2025-09-09 10:52:46Z INFO Listener] Arguments parsed
+[2025-09-09 10:52:46Z INFO Runner] ExecuteCommand
+[2025-09-09 10:52:46Z INFO ConfigurationStore] currentAssemblyLocation: C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\bin\Runner.Listener.dll
+[2025-09-09 10:52:46Z INFO HostContext] Well known directory 'Bin': 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\bin'
+[2025-09-09 10:52:46Z INFO ConfigurationStore] binPath: C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\bin
+[2025-09-09 10:52:46Z INFO HostContext] Well known directory 'Bin': 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\bin'
+[2025-09-09 10:52:46Z INFO HostContext] Well known directory 'Root': 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0'
+[2025-09-09 10:52:46Z INFO ConfigurationStore] RootFolder: C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0
+[2025-09-09 10:52:46Z INFO HostContext] Well known directory 'Bin': 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\bin'
+[2025-09-09 10:52:46Z INFO HostContext] Well known directory 'Root': 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0'
+[2025-09-09 10:52:46Z INFO HostContext] Well known config file 'Runner': 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.runner'
+[2025-09-09 10:52:46Z INFO ConfigurationStore] ConfigFilePath: C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.runner
+[2025-09-09 10:52:46Z INFO HostContext] Well known directory 'Bin': 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\bin'
+[2025-09-09 10:52:46Z INFO HostContext] Well known directory 'Root': 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0'
+[2025-09-09 10:52:46Z INFO HostContext] Well known config file 'MigratedRunner': 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.runner_migrated'
+[2025-09-09 10:52:46Z INFO ConfigurationStore] MigratedConfigFilePath: C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.runner_migrated
+[2025-09-09 10:52:46Z INFO HostContext] Well known directory 'Bin': 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\bin'
+[2025-09-09 10:52:46Z INFO HostContext] Well known directory 'Root': 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0'
+[2025-09-09 10:52:46Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials'
+[2025-09-09 10:52:46Z INFO ConfigurationStore] CredFilePath: C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials
+[2025-09-09 10:52:46Z INFO HostContext] Well known directory 'Bin': 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\bin'
+[2025-09-09 10:52:46Z INFO HostContext] Well known directory 'Root': 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0'
+[2025-09-09 10:52:46Z INFO HostContext] Well known config file 'MigratedCredentials': 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_migrated'
+[2025-09-09 10:52:46Z INFO ConfigurationStore] MigratedCredFilePath: C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_migrated
+[2025-09-09 10:52:46Z INFO HostContext] Well known directory 'Bin': 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\bin'
+[2025-09-09 10:52:46Z INFO HostContext] Well known directory 'Root': 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0'
+[2025-09-09 10:52:46Z INFO HostContext] Well known config file 'Service': 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.service'
+[2025-09-09 10:52:46Z INFO ConfigurationStore] ServiceConfigFilePath: C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.service
+[2025-09-09 10:52:46Z INFO CommandSettings] Flag 'help': 'False'
+[2025-09-09 10:52:46Z INFO CommandSettings] Flag 'version': 'False'
+[2025-09-09 10:52:46Z INFO CommandSettings] Flag 'commit': 'False'
+[2025-09-09 10:52:46Z INFO CommandSettings] Flag 'check': 'False'
+[2025-09-09 10:52:46Z INFO CommandSettings] Command 'configure': 'False'
+[2025-09-09 10:52:46Z INFO CommandSettings] Command 'remove': 'False'
+[2025-09-09 10:52:46Z INFO CommandSettings] Command 'warmup': 'False'
+[2025-09-09 10:52:46Z INFO ConfigurationManager] LoadSettings
+[2025-09-09 10:52:46Z INFO ConfigurationStore] IsConfigured()
+[2025-09-09 10:52:46Z INFO ConfigurationStore] IsConfigured: True
+[2025-09-09 10:52:46Z INFO ConfigurationManager] Is configured: True
+[2025-09-09 10:52:46Z INFO ConfigurationStore] Read setting file: 403 chars
+[2025-09-09 10:52:46Z INFO ConfigurationManager] Settings Loaded
+[2025-09-09 10:52:46Z INFO ConfigurationStore] IsServiceConfigured()
+[2025-09-09 10:52:46Z INFO ConfigurationStore] IsServiceConfigured: False
+[2025-09-09 10:52:46Z INFO CommandSettings] Command 'run': 'True'
+[2025-09-09 10:52:46Z INFO ConfigurationStore] IsConfigured()
+[2025-09-09 10:52:46Z INFO ConfigurationStore] IsConfigured: True
+[2025-09-09 10:52:46Z INFO ConfigurationManager] Is configured: True
+[2025-09-09 10:52:46Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2025-09-09 10:52:46Z INFO Runner] Set runner startup type - Manual
+[2025-09-09 10:52:46Z INFO CommandSettings] Flag 'once': 'False'
+[2025-09-09 10:52:46Z INFO CommandSettings] Flag 'once': 'False'
+[2025-09-09 10:52:46Z INFO Runner] RunAsync
+[2025-09-09 10:52:46Z INFO ConfigurationManager] LoadMigratedSettings
+[2025-09-09 10:52:46Z INFO ConfigurationStore] IsMigratedConfigured()
+[2025-09-09 10:52:46Z INFO ConfigurationStore] IsMigratedConfigured: False
+[2025-09-09 10:52:46Z INFO Runner] Failed to load migrated settings: No migrated configuration found.
+[2025-09-09 10:52:46Z INFO Runner] Falling back to original .runner settings
+[2025-09-09 10:52:46Z INFO Runner] Using BrokerMessageListener
+[2025-09-09 10:52:46Z INFO BrokerMessageListener] Using provided settings
+[2025-09-09 10:52:46Z INFO BrokerMessageListener] {
+  "AgentId": 22,
+  "AgentName": "CVC176",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelinesghubeus12.actions.githubusercontent.com/sNZ2N48AjgEQl8IRpssLx1CImSe18em33oXL7nwzxqUYHcFQWR/",
+  "GitHubUrl": "https://github.com/Ayushicybage/github-actions-Poc-",
+  "WorkFolder": "_work",
+  "UseV2Flow": true,
+  "ServerUrlV2": "https://broker.actions.githubusercontent.com/"
+}
+[2025-09-09 10:52:46Z INFO BrokerMessageListener] Loading Credentials
+[2025-09-09 10:52:46Z INFO ConfigurationStore] HasCredentials()
+[2025-09-09 10:52:46Z INFO ConfigurationStore] stored True
+[2025-09-09 10:52:46Z INFO CredentialManager] GetCredentialProvider
+[2025-09-09 10:52:46Z INFO CredentialManager] Creating type OAuth
+[2025-09-09 10:52:46Z INFO CredentialManager] Creating credential type: OAuth
+[2025-09-09 10:52:46Z INFO HostContext] Well known directory 'Bin': 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\bin'
+[2025-09-09 10:52:46Z INFO HostContext] Well known directory 'Root': 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0'
+[2025-09-09 10:52:46Z INFO HostContext] Well known config file 'RSACredentials': 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams'
+[2025-09-09 10:52:46Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-09 10:52:46Z INFO BrokerMessageListener] Attempt to create session.
+[2025-09-09 10:52:46Z INFO BrokerMessageListener] Connecting to the Broker Server...
+[2025-09-09 10:52:46Z INFO ConfigurationStore] HasCredentials()
+[2025-09-09 10:52:46Z INFO ConfigurationStore] stored True
+[2025-09-09 10:52:46Z INFO CredentialManager] GetCredentialProvider
+[2025-09-09 10:52:46Z INFO CredentialManager] Creating type OAuth
+[2025-09-09 10:52:46Z INFO CredentialManager] Creating credential type: OAuth
+[2025-09-09 10:52:46Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-09 10:52:46Z INFO BrokerMessageListener] VssConnection created
+[2025-09-09 10:52:46Z INFO BrokerMessageListener] Connecting to the Runner server...
+[2025-09-09 10:52:46Z INFO RunnerServer] EstablishVssConnection
+[2025-09-09 10:52:46Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2025-09-09 10:52:46Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-09-09 10:52:47Z INFO RunnerServer] EstablishVssConnection
+[2025-09-09 10:52:47Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-09-09 10:52:47Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-09-09 10:52:47Z INFO RunnerServer] EstablishVssConnection
+[2025-09-09 10:52:47Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-09-09 10:52:47Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-09-09 10:52:48Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-09-09 10:52:48Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-09-09 10:52:48Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-09-09 10:52:48Z INFO BrokerMessageListener] VssConnection created
+[2025-09-09 10:52:48Z INFO Terminal] WRITE LINE: 
+[2025-09-09 10:52:48Z INFO Terminal] WRITE LINE: 
+[2025-09-09 10:52:49Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-09 10:52:49Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-09 10:52:50Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-09-09 10:52:51Z INFO BrokerMessageListener] Session created.
+[2025-09-09 10:52:51Z INFO Terminal] WRITE LINE: Current runner version: '2.328.0'
+[2025-09-09 10:52:51Z INFO Terminal] WRITE LINE: 2025-09-09 10:52:51Z: Listening for Jobs
+[2025-09-09 10:52:51Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2025-09-09 10:52:52Z INFO ConfigurationStore] HasCredentials()
+[2025-09-09 10:52:52Z INFO ConfigurationStore] stored True
+[2025-09-09 10:52:52Z INFO CredentialManager] GetCredentialProvider
+[2025-09-09 10:52:52Z INFO CredentialManager] Creating type OAuth
+[2025-09-09 10:52:52Z INFO CredentialManager] Creating credential type: OAuth
+[2025-09-09 10:52:52Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-09 10:52:52Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-09 10:52:52Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-09 10:52:53Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-09-09 10:52:55Z INFO JobDispatcher] Job request 0 for plan e2371178-a4ab-4b18-9933-74fa01b20eec job 1343e242-d173-5eef-8aec-df9aebabdff7 received.
+[2025-09-09 10:52:55Z INFO JobDispatcher] Pull OrchestrationId e2371178-a4ab-4b18-9933-74fa01b20eec.build.__default from JWT claims
+[2025-09-09 10:52:55Z INFO BrokerMessageListener] Received job status event. JobState: Busy
+[2025-09-09 10:52:55Z INFO BrokerMessageListener] _getMessagesTokenSource is already disposed.
+[2025-09-09 10:52:55Z INFO Terminal] WRITE LINE: 2025-09-09 10:52:55Z: Running job: build
+[2025-09-09 10:52:55Z INFO JobDispatcher] Start renew job request 0 for job 1343e242-d173-5eef-8aec-df9aebabdff7.
+[2025-09-09 10:52:56Z INFO JobDispatcher] Successfully renew job 1343e242-d173-5eef-8aec-df9aebabdff7, job is valid till 09-09-2025 11:02:56
+[2025-09-09 10:52:56Z INFO HostContext] Well known directory 'Bin': 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\bin'
+[2025-09-09 10:52:56Z INFO ProcessInvokerWrapper] Starting process:
+[2025-09-09 10:52:56Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\bin\Runner.Worker.exe'
+[2025-09-09 10:52:56Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 2140 2156'
+[2025-09-09 10:52:56Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\bin'
+[2025-09-09 10:52:56Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2025-09-09 10:52:56Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2025-09-09 10:52:56Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2025-09-09 10:52:56Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2025-09-09 10:52:56Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2025-09-09 10:52:56Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2025-09-09 10:52:56Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2025-09-09 10:52:56Z INFO ProcessInvokerWrapper] Process started with process id 12688, waiting for process exit.
+[2025-09-09 10:52:56Z INFO JobDispatcher] Send job request message to worker for job 1343e242-d173-5eef-8aec-df9aebabdff7.
+[2025-09-09 10:52:57Z INFO ProcessChannel] Sending message of length 19489, with hash '8fc6e9e8a76b8ffa0aaa4a91d41d009eb54f455a4e571a87e8dbc8a4384ee81c'
+[2025-09-09 10:52:58Z INFO JobNotification] Entering JobStarted Notification
+[2025-09-09 10:52:58Z INFO JobNotification] Entering StartMonitor
+[2025-09-09 10:53:57Z INFO JobDispatcher] Successfully renew job 1343e242-d173-5eef-8aec-df9aebabdff7, job is valid till 09-09-2025 11:03:57
+[2025-09-09 10:54:58Z INFO JobDispatcher] Successfully renew job 1343e242-d173-5eef-8aec-df9aebabdff7, job is valid till 09-09-2025 11:04:58
+[2025-09-09 10:55:45Z INFO ConfigurationStore] HasCredentials()
+[2025-09-09 10:55:45Z INFO ConfigurationStore] stored True
+[2025-09-09 10:55:45Z INFO CredentialManager] GetCredentialProvider
+[2025-09-09 10:55:45Z INFO CredentialManager] Creating type OAuth
+[2025-09-09 10:55:45Z INFO CredentialManager] Creating credential type: OAuth
+[2025-09-09 10:55:45Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-09 10:55:46Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-09-09 10:55:46Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-09-09 10:55:46Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-09 10:55:46Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-09 10:55:46Z INFO ProcessInvokerWrapper] Finished process 12688 with exit code 100, and elapsed time 00:02:49.5074616.
+[2025-09-09 10:55:46Z INFO JobDispatcher] Worker finished for job 1343e242-d173-5eef-8aec-df9aebabdff7. Code: 100
+[2025-09-09 10:55:46Z INFO JobDispatcher] finish job request for job 1343e242-d173-5eef-8aec-df9aebabdff7 with result: Succeeded
+[2025-09-09 10:55:46Z INFO Terminal] WRITE LINE: 2025-09-09 10:55:46Z: Job build completed with result: Succeeded
+[2025-09-09 10:55:46Z INFO JobDispatcher] Stop renew job request for job 1343e242-d173-5eef-8aec-df9aebabdff7.
+[2025-09-09 10:55:46Z INFO JobDispatcher] job renew has been cancelled, stop renew job 1343e242-d173-5eef-8aec-df9aebabdff7.
+[2025-09-09 10:55:46Z INFO JobNotification] Entering JobCompleted Notification
+[2025-09-09 10:55:46Z INFO JobNotification] Entering EndMonitor
+[2025-09-09 10:55:46Z INFO BrokerMessageListener] Received job status event. JobState: Online
+[2025-09-09 10:55:46Z INFO BrokerMessageListener] _getMessagesTokenSource is already disposed.
+[2025-09-09 10:55:47Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-09-09 10:55:49Z INFO JobDispatcher] Job request 0 for plan 8a0e3692-f5f0-40ec-9aa2-6be2bbac90ea job d23633e7-c3ec-5135-a2c4-5dbd4e7f221d received.
+[2025-09-09 10:55:49Z INFO JobDispatcher] Pull OrchestrationId 8a0e3692-f5f0-40ec-9aa2-6be2bbac90ea.build.__default from JWT claims
+[2025-09-09 10:55:49Z INFO BrokerMessageListener] Received job status event. JobState: Busy
+[2025-09-09 10:55:49Z INFO BrokerMessageListener] _getMessagesTokenSource is already disposed.
+[2025-09-09 10:55:49Z INFO JobDispatcher] Job request 1343e242-d173-5eef-8aec-df9aebabdff7 processed succeed.
+[2025-09-09 10:55:49Z INFO Terminal] WRITE LINE: 2025-09-09 10:55:49Z: Running job: build
+[2025-09-09 10:55:49Z INFO JobDispatcher] Start renew job request 0 for job d23633e7-c3ec-5135-a2c4-5dbd4e7f221d.
+[2025-09-09 10:55:50Z INFO JobDispatcher] Successfully renew job d23633e7-c3ec-5135-a2c4-5dbd4e7f221d, job is valid till 09-09-2025 11:05:49
+[2025-09-09 10:55:50Z INFO HostContext] Well known directory 'Bin': 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\bin'
+[2025-09-09 10:55:50Z INFO ProcessInvokerWrapper] Starting process:
+[2025-09-09 10:55:50Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\bin\Runner.Worker.exe'
+[2025-09-09 10:55:50Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 1928 1560'
+[2025-09-09 10:55:50Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\bin'
+[2025-09-09 10:55:50Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2025-09-09 10:55:50Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2025-09-09 10:55:50Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2025-09-09 10:55:50Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2025-09-09 10:55:50Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2025-09-09 10:55:50Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2025-09-09 10:55:50Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2025-09-09 10:55:50Z INFO ProcessInvokerWrapper] Process started with process id 15728, waiting for process exit.
+[2025-09-09 10:55:50Z INFO JobDispatcher] Send job request message to worker for job d23633e7-c3ec-5135-a2c4-5dbd4e7f221d.
+[2025-09-09 10:55:50Z INFO ProcessChannel] Sending message of length 19493, with hash 'c4d8a3cd062534931ed483b4ab22a71549f36ff3eee9867e6cf1c59c695157e2'
+[2025-09-09 10:55:51Z INFO JobNotification] Entering JobStarted Notification
+[2025-09-09 10:55:51Z INFO JobNotification] Entering StartMonitor
+[2025-09-09 10:56:50Z INFO JobDispatcher] Successfully renew job d23633e7-c3ec-5135-a2c4-5dbd4e7f221d, job is valid till 09-09-2025 11:06:50
+[2025-09-09 10:57:51Z INFO JobDispatcher] Successfully renew job d23633e7-c3ec-5135-a2c4-5dbd4e7f221d, job is valid till 09-09-2025 11:07:51
+[2025-09-09 10:58:52Z INFO JobDispatcher] Successfully renew job d23633e7-c3ec-5135-a2c4-5dbd4e7f221d, job is valid till 09-09-2025 11:08:52
+[2025-09-09 10:59:53Z INFO JobDispatcher] Successfully renew job d23633e7-c3ec-5135-a2c4-5dbd4e7f221d, job is valid till 09-09-2025 11:09:52
+[2025-09-09 11:00:53Z INFO JobDispatcher] Successfully renew job d23633e7-c3ec-5135-a2c4-5dbd4e7f221d, job is valid till 09-09-2025 11:10:53
+[2025-09-09 11:01:19Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-09-09 11:01:19Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-09-09 11:01:19Z INFO ConfigurationStore] HasCredentials()
+[2025-09-09 11:01:19Z INFO ConfigurationStore] stored True
+[2025-09-09 11:01:19Z INFO CredentialManager] GetCredentialProvider
+[2025-09-09 11:01:19Z INFO CredentialManager] Creating type OAuth
+[2025-09-09 11:01:19Z INFO CredentialManager] Creating credential type: OAuth
+[2025-09-09 11:01:19Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-09 11:01:19Z INFO ProcessInvokerWrapper] Finished process 15728 with exit code 100, and elapsed time 00:05:29.9216070.
+[2025-09-09 11:01:19Z INFO JobDispatcher] Worker finished for job d23633e7-c3ec-5135-a2c4-5dbd4e7f221d. Code: 100
+[2025-09-09 11:01:19Z INFO JobDispatcher] finish job request for job d23633e7-c3ec-5135-a2c4-5dbd4e7f221d with result: Succeeded
+[2025-09-09 11:01:19Z INFO Terminal] WRITE LINE: 2025-09-09 11:01:19Z: Job build completed with result: Succeeded
+[2025-09-09 11:01:19Z INFO JobDispatcher] Stop renew job request for job d23633e7-c3ec-5135-a2c4-5dbd4e7f221d.
+[2025-09-09 11:01:19Z INFO JobDispatcher] job renew has been cancelled, stop renew job d23633e7-c3ec-5135-a2c4-5dbd4e7f221d.
+[2025-09-09 11:01:19Z INFO JobNotification] Entering JobCompleted Notification
+[2025-09-09 11:01:19Z INFO JobNotification] Entering EndMonitor
+[2025-09-09 11:01:19Z INFO BrokerMessageListener] Received job status event. JobState: Online
+[2025-09-09 11:01:19Z INFO BrokerMessageListener] _getMessagesTokenSource is already disposed.
+[2025-09-09 11:01:20Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-09 11:01:20Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-09 11:01:21Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-09-09 11:01:25Z INFO JobDispatcher] Job request 0 for plan 51059a65-0a3b-4ef2-842f-bed3152bf7e1 job b00071e0-67e8-54d4-b881-1d58cfcd5898 received.
+[2025-09-09 11:01:25Z INFO JobDispatcher] Pull OrchestrationId 51059a65-0a3b-4ef2-842f-bed3152bf7e1.job-windows.__default from JWT claims
+[2025-09-09 11:01:25Z INFO BrokerMessageListener] Received job status event. JobState: Busy
+[2025-09-09 11:01:25Z INFO BrokerMessageListener] _getMessagesTokenSource is already disposed.
+[2025-09-09 11:01:25Z INFO JobDispatcher] Job request d23633e7-c3ec-5135-a2c4-5dbd4e7f221d processed succeed.
+[2025-09-09 11:01:25Z INFO Terminal] WRITE LINE: 2025-09-09 11:01:25Z: Running job: job-windows
+[2025-09-09 11:01:25Z INFO JobDispatcher] Start renew job request 0 for job b00071e0-67e8-54d4-b881-1d58cfcd5898.
+[2025-09-09 11:01:30Z INFO JobDispatcher] Successfully renew job b00071e0-67e8-54d4-b881-1d58cfcd5898, job is valid till 09-09-2025 11:11:29
+[2025-09-09 11:01:30Z INFO HostContext] Well known directory 'Bin': 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\bin'
+[2025-09-09 11:01:30Z INFO ProcessInvokerWrapper] Starting process:
+[2025-09-09 11:01:30Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\bin\Runner.Worker.exe'
+[2025-09-09 11:01:30Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 2176 1380'
+[2025-09-09 11:01:30Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\bin'
+[2025-09-09 11:01:30Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2025-09-09 11:01:30Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2025-09-09 11:01:30Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2025-09-09 11:01:30Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2025-09-09 11:01:30Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2025-09-09 11:01:30Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2025-09-09 11:01:30Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2025-09-09 11:01:31Z INFO ProcessInvokerWrapper] Process started with process id 13480, waiting for process exit.
+[2025-09-09 11:01:31Z INFO JobDispatcher] Send job request message to worker for job b00071e0-67e8-54d4-b881-1d58cfcd5898.
+[2025-09-09 11:01:31Z INFO ProcessChannel] Sending message of length 20147, with hash '8a7bc6907a9df7836e4240181b9e808013db21a7f90dad2fb1c11f76d22b475d'
+[2025-09-09 11:01:35Z INFO JobNotification] Entering JobStarted Notification
+[2025-09-09 11:01:35Z INFO JobNotification] Entering StartMonitor
+[2025-09-09 11:02:32Z INFO JobDispatcher] Successfully renew job b00071e0-67e8-54d4-b881-1d58cfcd5898, job is valid till 09-09-2025 11:12:32
+[2025-09-09 11:03:32Z INFO JobDispatcher] Successfully renew job b00071e0-67e8-54d4-b881-1d58cfcd5898, job is valid till 09-09-2025 11:13:32
+[2025-09-09 11:04:34Z INFO JobDispatcher] Successfully renew job b00071e0-67e8-54d4-b881-1d58cfcd5898, job is valid till 09-09-2025 11:14:33
+[2025-09-09 11:05:34Z INFO JobDispatcher] Successfully renew job b00071e0-67e8-54d4-b881-1d58cfcd5898, job is valid till 09-09-2025 11:15:34
+[2025-09-09 11:06:35Z INFO JobDispatcher] Successfully renew job b00071e0-67e8-54d4-b881-1d58cfcd5898, job is valid till 09-09-2025 11:16:35
+[2025-09-09 11:07:36Z INFO JobDispatcher] Successfully renew job b00071e0-67e8-54d4-b881-1d58cfcd5898, job is valid till 09-09-2025 11:17:36
+[2025-09-09 11:08:37Z INFO JobDispatcher] Successfully renew job b00071e0-67e8-54d4-b881-1d58cfcd5898, job is valid till 09-09-2025 11:18:36
+[2025-09-09 11:09:37Z INFO JobDispatcher] Successfully renew job b00071e0-67e8-54d4-b881-1d58cfcd5898, job is valid till 09-09-2025 11:19:37
+[2025-09-09 11:10:15Z INFO ConfigurationStore] HasCredentials()
+[2025-09-09 11:10:15Z INFO ConfigurationStore] stored True
+[2025-09-09 11:10:15Z INFO CredentialManager] GetCredentialProvider
+[2025-09-09 11:10:15Z INFO CredentialManager] Creating type OAuth
+[2025-09-09 11:10:15Z INFO CredentialManager] Creating credential type: OAuth
+[2025-09-09 11:10:15Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-09 11:10:17Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-09 11:10:17Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-09 11:10:28Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-09-09 11:10:28Z WARN GitHubActionsService] Retrieving an AAD auth token took a long time (11.0083191 seconds)
+[2025-09-09 11:10:31Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-09-09 11:10:31Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-09-09 11:10:32Z INFO ProcessInvokerWrapper] Finished process 13480 with exit code 100, and elapsed time 00:09:01.5221317.
+[2025-09-09 11:10:32Z INFO JobDispatcher] Worker finished for job b00071e0-67e8-54d4-b881-1d58cfcd5898. Code: 100
+[2025-09-09 11:10:32Z INFO JobDispatcher] finish job request for job b00071e0-67e8-54d4-b881-1d58cfcd5898 with result: Succeeded
+[2025-09-09 11:10:32Z INFO Terminal] WRITE LINE: 2025-09-09 11:10:32Z: Job job-windows completed with result: Succeeded
+[2025-09-09 11:10:32Z INFO JobDispatcher] Stop renew job request for job b00071e0-67e8-54d4-b881-1d58cfcd5898.
+[2025-09-09 11:10:32Z INFO JobDispatcher] job renew has been cancelled, stop renew job b00071e0-67e8-54d4-b881-1d58cfcd5898.
+[2025-09-09 11:10:32Z INFO JobNotification] Entering JobCompleted Notification
+[2025-09-09 11:10:32Z INFO JobNotification] Entering EndMonitor
+[2025-09-09 11:10:32Z INFO BrokerMessageListener] Received job status event. JobState: Online
+[2025-09-09 11:10:32Z INFO BrokerMessageListener] _getMessagesTokenSource is already disposed.
+[2025-09-09 11:10:32Z INFO JobDispatcher] Job request 0 for plan 266d675a-0902-42cb-b925-72a51d30a6b6 job bfa5bbe4-eb98-5400-9113-63ecaa0c872f received.
+[2025-09-09 11:10:32Z INFO JobDispatcher] Pull OrchestrationId 266d675a-0902-42cb-b925-72a51d30a6b6.build.__default from JWT claims
+[2025-09-09 11:10:32Z INFO BrokerMessageListener] Received job status event. JobState: Busy
+[2025-09-09 11:10:32Z INFO BrokerMessageListener] _getMessagesTokenSource is already disposed.
+[2025-09-09 11:10:32Z INFO JobDispatcher] Job request b00071e0-67e8-54d4-b881-1d58cfcd5898 processed succeed.
+[2025-09-09 11:10:32Z INFO Terminal] WRITE LINE: 2025-09-09 11:10:32Z: Running job: build
+[2025-09-09 11:10:33Z INFO JobDispatcher] Start renew job request 0 for job bfa5bbe4-eb98-5400-9113-63ecaa0c872f.
+[2025-09-09 11:10:34Z INFO JobDispatcher] Successfully renew job bfa5bbe4-eb98-5400-9113-63ecaa0c872f, job is valid till 09-09-2025 11:20:34
+[2025-09-09 11:10:34Z INFO HostContext] Well known directory 'Bin': 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\bin'
+[2025-09-09 11:10:34Z INFO ProcessInvokerWrapper] Starting process:
+[2025-09-09 11:10:34Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\bin\Runner.Worker.exe'
+[2025-09-09 11:10:34Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 2324 2360'
+[2025-09-09 11:10:34Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\bin'
+[2025-09-09 11:10:34Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2025-09-09 11:10:34Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2025-09-09 11:10:34Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2025-09-09 11:10:34Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2025-09-09 11:10:34Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2025-09-09 11:10:34Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2025-09-09 11:10:34Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2025-09-09 11:10:36Z INFO ProcessInvokerWrapper] Process started with process id 21180, waiting for process exit.
+[2025-09-09 11:10:36Z INFO JobDispatcher] Send job request message to worker for job bfa5bbe4-eb98-5400-9113-63ecaa0c872f.
+[2025-09-09 11:10:36Z INFO ProcessChannel] Sending message of length 19493, with hash '03befaf0d69d9a2224f5212d955cac683a3405fe4cffbac95dacb1e5532d2774'
+[2025-09-09 11:10:41Z INFO JobNotification] Entering JobStarted Notification
+[2025-09-09 11:10:41Z INFO JobNotification] Entering StartMonitor
+[2025-09-09 11:11:37Z INFO JobDispatcher] Successfully renew job bfa5bbe4-eb98-5400-9113-63ecaa0c872f, job is valid till 09-09-2025 11:21:37
+[2025-09-09 11:12:38Z INFO JobDispatcher] Successfully renew job bfa5bbe4-eb98-5400-9113-63ecaa0c872f, job is valid till 09-09-2025 11:22:38
+[2025-09-09 11:13:39Z INFO JobDispatcher] Successfully renew job bfa5bbe4-eb98-5400-9113-63ecaa0c872f, job is valid till 09-09-2025 11:23:39
+[2025-09-09 11:14:40Z INFO JobDispatcher] Successfully renew job bfa5bbe4-eb98-5400-9113-63ecaa0c872f, job is valid till 09-09-2025 11:24:39
+[2025-09-09 11:14:50Z INFO ConfigurationStore] HasCredentials()
+[2025-09-09 11:14:52Z INFO ConfigurationStore] stored True
+[2025-09-09 11:14:52Z INFO CredentialManager] GetCredentialProvider
+[2025-09-09 11:14:52Z INFO CredentialManager] Creating type OAuth
+[2025-09-09 11:14:52Z INFO CredentialManager] Creating credential type: OAuth
+[2025-09-09 11:14:52Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-09 11:14:52Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-09 11:14:52Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-09 11:14:52Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-09-09 11:14:52Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-09-09 11:14:53Z INFO ProcessInvokerWrapper] Finished process 21180 with exit code 100, and elapsed time 00:04:18.8860079.
+[2025-09-09 11:14:53Z INFO JobDispatcher] Worker finished for job bfa5bbe4-eb98-5400-9113-63ecaa0c872f. Code: 100
+[2025-09-09 11:14:53Z INFO JobDispatcher] finish job request for job bfa5bbe4-eb98-5400-9113-63ecaa0c872f with result: Succeeded
+[2025-09-09 11:14:53Z INFO Terminal] WRITE LINE: 2025-09-09 11:14:53Z: Job build completed with result: Succeeded
+[2025-09-09 11:14:53Z INFO JobDispatcher] Stop renew job request for job bfa5bbe4-eb98-5400-9113-63ecaa0c872f.
+[2025-09-09 11:14:53Z INFO JobDispatcher] job renew has been cancelled, stop renew job bfa5bbe4-eb98-5400-9113-63ecaa0c872f.
+[2025-09-09 11:14:53Z INFO JobNotification] Entering JobCompleted Notification
+[2025-09-09 11:14:53Z INFO JobNotification] Entering EndMonitor
+[2025-09-09 11:14:53Z INFO BrokerMessageListener] Received job status event. JobState: Online
+[2025-09-09 11:14:53Z INFO BrokerMessageListener] _getMessagesTokenSource is already disposed.
+[2025-09-09 11:14:58Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-09-09 11:14:59Z WARN GitHubActionsService] Retrieving an AAD auth token took a long time (6.5810859 seconds)
+[2025-09-09 11:15:05Z INFO JobDispatcher] Job request 0 for plan 4d81971c-d97d-4037-b248-c46fd6cdcc26 job 5b1d5c25-ed82-52d5-bfee-d44445e01217 received.
+[2025-09-09 11:15:05Z INFO JobDispatcher] Pull OrchestrationId 4d81971c-d97d-4037-b248-c46fd6cdcc26.build.__default from JWT claims
+[2025-09-09 11:15:05Z INFO BrokerMessageListener] Received job status event. JobState: Busy
+[2025-09-09 11:15:05Z INFO BrokerMessageListener] _getMessagesTokenSource is already disposed.
+[2025-09-09 11:15:05Z INFO JobDispatcher] Job request bfa5bbe4-eb98-5400-9113-63ecaa0c872f processed succeed.
+[2025-09-09 11:15:05Z INFO Terminal] WRITE LINE: 2025-09-09 11:15:05Z: Running job: build
+[2025-09-09 11:15:05Z INFO JobDispatcher] Start renew job request 0 for job 5b1d5c25-ed82-52d5-bfee-d44445e01217.
+[2025-09-09 11:15:06Z INFO JobDispatcher] Successfully renew job 5b1d5c25-ed82-52d5-bfee-d44445e01217, job is valid till 09-09-2025 11:25:06
+[2025-09-09 11:15:06Z INFO HostContext] Well known directory 'Bin': 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\bin'
+[2025-09-09 11:15:06Z INFO ProcessInvokerWrapper] Starting process:
+[2025-09-09 11:15:06Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\bin\Runner.Worker.exe'
+[2025-09-09 11:15:06Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 2400 2156'
+[2025-09-09 11:15:06Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\bin'
+[2025-09-09 11:15:06Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2025-09-09 11:15:06Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2025-09-09 11:15:06Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2025-09-09 11:15:06Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2025-09-09 11:15:06Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2025-09-09 11:15:06Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2025-09-09 11:15:06Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2025-09-09 11:15:07Z INFO ProcessInvokerWrapper] Process started with process id 1900, waiting for process exit.
+[2025-09-09 11:15:07Z INFO JobDispatcher] Send job request message to worker for job 5b1d5c25-ed82-52d5-bfee-d44445e01217.
+[2025-09-09 11:15:07Z INFO ProcessChannel] Sending message of length 19493, with hash 'bdead8d2baaa559ae06cfeec5bca6009afa10fbd2b384e14fbf6b14e711e8f9e'
+[2025-09-09 11:15:09Z INFO JobNotification] Entering JobStarted Notification
+[2025-09-09 11:15:09Z INFO JobNotification] Entering StartMonitor
+[2025-09-09 11:16:08Z INFO JobDispatcher] Successfully renew job 5b1d5c25-ed82-52d5-bfee-d44445e01217, job is valid till 09-09-2025 11:26:08
+[2025-09-09 11:17:09Z INFO JobDispatcher] Successfully renew job 5b1d5c25-ed82-52d5-bfee-d44445e01217, job is valid till 09-09-2025 11:27:09
+[2025-09-09 11:17:47Z INFO ConfigurationStore] HasCredentials()
+[2025-09-09 11:17:47Z INFO ConfigurationStore] stored True
+[2025-09-09 11:17:47Z INFO CredentialManager] GetCredentialProvider
+[2025-09-09 11:17:47Z INFO CredentialManager] Creating type OAuth
+[2025-09-09 11:17:47Z INFO CredentialManager] Creating credential type: OAuth
+[2025-09-09 11:17:47Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-09 11:17:48Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-09 11:17:49Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-09 11:17:50Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-09-09 11:17:50Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-09-09 11:17:50Z INFO ProcessInvokerWrapper] Finished process 1900 with exit code 100, and elapsed time 00:02:44.0251432.
+[2025-09-09 11:17:50Z INFO JobDispatcher] Worker finished for job 5b1d5c25-ed82-52d5-bfee-d44445e01217. Code: 100
+[2025-09-09 11:17:50Z INFO JobDispatcher] finish job request for job 5b1d5c25-ed82-52d5-bfee-d44445e01217 with result: Succeeded
+[2025-09-09 11:17:50Z INFO Terminal] WRITE LINE: 2025-09-09 11:17:50Z: Job build completed with result: Succeeded
+[2025-09-09 11:17:50Z INFO JobDispatcher] Stop renew job request for job 5b1d5c25-ed82-52d5-bfee-d44445e01217.
+[2025-09-09 11:17:50Z INFO JobDispatcher] job renew has been cancelled, stop renew job 5b1d5c25-ed82-52d5-bfee-d44445e01217.
+[2025-09-09 11:17:50Z INFO JobNotification] Entering JobCompleted Notification
+[2025-09-09 11:17:50Z INFO JobNotification] Entering EndMonitor
+[2025-09-09 11:17:50Z INFO BrokerMessageListener] Received job status event. JobState: Online
+[2025-09-09 11:17:50Z INFO BrokerMessageListener] _getMessagesTokenSource is already disposed.
+[2025-09-09 11:17:51Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-09-09 11:17:53Z WARN GitHubActionsService] Retrieving an AAD auth token took a long time (5.3221805 seconds)
+[2025-09-09 11:17:56Z INFO JobDispatcher] Job request 0 for plan ad0199bd-b254-4dda-933b-ac184f80a4aa job 850a855a-e10b-52ed-bd84-6bc204ace7df received.
+[2025-09-09 11:17:56Z INFO JobDispatcher] Pull OrchestrationId ad0199bd-b254-4dda-933b-ac184f80a4aa.build.__default from JWT claims
+[2025-09-09 11:17:56Z INFO BrokerMessageListener] Received job status event. JobState: Busy
+[2025-09-09 11:17:56Z INFO BrokerMessageListener] _getMessagesTokenSource is already disposed.
+[2025-09-09 11:17:56Z INFO JobDispatcher] Job request 5b1d5c25-ed82-52d5-bfee-d44445e01217 processed succeed.
+[2025-09-09 11:17:56Z INFO Terminal] WRITE LINE: 2025-09-09 11:17:56Z: Running job: build
+[2025-09-09 11:17:56Z INFO JobDispatcher] Start renew job request 0 for job 850a855a-e10b-52ed-bd84-6bc204ace7df.
+[2025-09-09 11:17:57Z INFO JobDispatcher] Successfully renew job 850a855a-e10b-52ed-bd84-6bc204ace7df, job is valid till 09-09-2025 11:27:57
+[2025-09-09 11:17:57Z INFO HostContext] Well known directory 'Bin': 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\bin'
+[2025-09-09 11:17:57Z INFO ProcessInvokerWrapper] Starting process:
+[2025-09-09 11:17:57Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\bin\Runner.Worker.exe'
+[2025-09-09 11:17:57Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 2380 2344'
+[2025-09-09 11:17:57Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\bin'
+[2025-09-09 11:17:57Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2025-09-09 11:17:57Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2025-09-09 11:17:57Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2025-09-09 11:17:57Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2025-09-09 11:17:57Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2025-09-09 11:17:57Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2025-09-09 11:17:57Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2025-09-09 11:17:57Z INFO ProcessInvokerWrapper] Process started with process id 6344, waiting for process exit.
+[2025-09-09 11:17:57Z INFO JobDispatcher] Send job request message to worker for job 850a855a-e10b-52ed-bd84-6bc204ace7df.
+[2025-09-09 11:17:57Z INFO ProcessChannel] Sending message of length 19491, with hash 'f8a633e63b109c89a1876717c05791cf3b3b6289f2d0061d8bd3da2cc8f7fe1d'
+[2025-09-09 11:18:00Z INFO JobNotification] Entering JobStarted Notification
+[2025-09-09 11:18:00Z INFO JobNotification] Entering StartMonitor
+[2025-09-09 11:19:01Z INFO JobDispatcher] Successfully renew job 850a855a-e10b-52ed-bd84-6bc204ace7df, job is valid till 09-09-2025 11:28:58
+[2025-09-09 11:20:02Z INFO JobDispatcher] Successfully renew job 850a855a-e10b-52ed-bd84-6bc204ace7df, job is valid till 09-09-2025 11:30:02
+[2025-09-09 11:21:03Z INFO JobDispatcher] Successfully renew job 850a855a-e10b-52ed-bd84-6bc204ace7df, job is valid till 09-09-2025 11:31:03
+[2025-09-09 11:22:03Z INFO JobDispatcher] Successfully renew job 850a855a-e10b-52ed-bd84-6bc204ace7df, job is valid till 09-09-2025 11:32:03
+[2025-09-09 11:23:04Z INFO JobDispatcher] Successfully renew job 850a855a-e10b-52ed-bd84-6bc204ace7df, job is valid till 09-09-2025 11:33:04
+[2025-09-09 11:23:08Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-09-09 11:23:08Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-09-09 11:23:08Z INFO ProcessInvokerWrapper] Finished process 6344 with exit code 100, and elapsed time 00:05:11.0688746.
+[2025-09-09 11:23:08Z INFO JobDispatcher] Worker finished for job 850a855a-e10b-52ed-bd84-6bc204ace7df. Code: 100
+[2025-09-09 11:23:08Z INFO JobDispatcher] finish job request for job 850a855a-e10b-52ed-bd84-6bc204ace7df with result: Succeeded
+[2025-09-09 11:23:08Z INFO Terminal] WRITE LINE: 2025-09-09 11:23:08Z: Job build completed with result: Succeeded
+[2025-09-09 11:23:08Z INFO JobDispatcher] Stop renew job request for job 850a855a-e10b-52ed-bd84-6bc204ace7df.
+[2025-09-09 11:23:08Z INFO JobDispatcher] job renew has been cancelled, stop renew job 850a855a-e10b-52ed-bd84-6bc204ace7df.
+[2025-09-09 11:23:08Z INFO JobNotification] Entering JobCompleted Notification
+[2025-09-09 11:23:08Z INFO JobNotification] Entering EndMonitor
+[2025-09-09 11:23:08Z INFO BrokerMessageListener] Received job status event. JobState: Online
+[2025-09-09 11:23:09Z WARN GitHubActionsService] GET request to https://broker.actions.githubusercontent.com/message?sessionId=b53b82e3-99d4-4cef-9aa5-2d9a645152b0&status=Busy&runnerVersion=2.328.0&os=Windows&architecture=X64&disableUpdate=false has been cancelled.
+[2025-09-09 11:23:09Z ERR  BrokerServer] Catch exception during request
+[2025-09-09 11:23:09Z ERR  BrokerServer] System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: The I/O operation has been aborted because of either a thread exit or an application request..
+ ---> System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](CancellationToken cancellationToken, Int32 estimatedSize)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](Memory`1 buffer, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.RawHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Sdk.WebApi.WebApi.RawHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at Sdk.WebApi.WebApi.RawHttpClientBase.SendAsync[T](HttpRequestMessage message, Boolean readErrorBody, Object userState, CancellationToken cancellationToken)
+   at Sdk.WebApi.WebApi.RawHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Uri requestUri, HttpContent content, IEnumerable`1 queryParameters, Boolean readErrorBody, Object userState, CancellationToken cancellationToken)
+   at GitHub.Actions.RunService.WebApi.BrokerHttpClient.GetRunnerMessageAsync(Nullable`1 sessionId, String runnerVersion, Nullable`1 status, String os, String architecture, Nullable`1 disableUpdate, CancellationToken cancellationToken)
+   at GitHub.Runner.Common.BrokerServer.<>c__DisplayClass7_0.<<GetRunnerMessageAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at GitHub.Runner.Common.RunnerService.RetryRequest[T](Func`1 func, CancellationToken cancellationToken, Int32 maxRetryAttemptsCount, Func`2 shouldRetry)
+[2025-09-09 11:23:09Z ERR  BrokerServer] #####################################################
+[2025-09-09 11:23:09Z ERR  BrokerServer] System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: The I/O operation has been aborted because of either a thread exit or an application request..
+ ---> System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](CancellationToken cancellationToken, Int32 estimatedSize)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](Memory`1 buffer, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.RawHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+[2025-09-09 11:23:09Z ERR  BrokerServer] #####################################################
+[2025-09-09 11:23:09Z ERR  BrokerServer] System.IO.IOException: Unable to read data from the transport connection: The I/O operation has been aborted because of either a thread exit or an application request..
+ ---> System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](CancellationToken cancellationToken, Int32 estimatedSize)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](Memory`1 buffer, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+[2025-09-09 11:23:09Z ERR  BrokerServer] #####################################################
+[2025-09-09 11:23:09Z ERR  BrokerServer] System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+[2025-09-09 11:23:09Z WARN BrokerServer] Back off 9.259 seconds before next retry. 4 attempt left.
+[2025-09-09 11:23:09Z INFO BrokerMessageListener] Get messages has been cancelled using local token source. Continue to get messages with new status.
+[2025-09-09 11:43:19Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-09 11:43:20Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-09-09 12:33:41Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-09 12:33:43Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-09-09 12:39:09Z INFO Runner] Received RunnerRefreshConfigMessage for 'runner' config file
+[2025-09-09 12:39:09Z INFO RunnerConfigUpdater] Verifying runner qualified id: U_kgDODW5BCQ/R_kgDOPg83tg/self-hosted/22
+[2025-09-09 12:39:09Z INFO HostContext] Well known directory 'Bin': 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\bin'
+[2025-09-09 12:39:09Z INFO HostContext] Well known directory 'Root': 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0'
+[2025-09-09 12:39:09Z INFO HostContext] Well known config file 'Runner': 'C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.runner'
+[2025-09-09 12:39:10Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-09 12:39:10Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-09 12:39:11Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-09-09 12:39:12Z INFO ConfigurationStore] Saving runner migrated settings
+[2025-09-09 12:39:12Z INFO ConfigurationStore] Migrated Settings Saved.
+[2025-09-09 12:39:12Z INFO Runner] Runner configuration was updated. Session restart has been scheduled
+[2025-09-09 12:39:12Z INFO Runner] Pending session restart detected and job dispatcher is not busy. Restarting session now.
+[2025-09-09 12:39:12Z INFO JobDispatcher] Shutting down JobDispatcher. Make sure all WorkerDispatcher has finished.
+[2025-09-09 12:39:12Z INFO JobDispatcher] Ensure WorkerDispatcher for job 850a855a-e10b-52ed-bd84-6bc204ace7df run to finish, cancel any running job.
+[2025-09-09 12:39:12Z INFO JobDispatcher] Job request 850a855a-e10b-52ed-bd84-6bc204ace7df processed succeed.
+[2025-09-09 12:39:12Z INFO Runner] Deleting Runner Session...
+[2025-09-09 12:39:13Z INFO Runner] Restarting runner session after config update...
+[2025-09-09 12:39:13Z INFO Runner] Runner configuration was refreshed, restarting session...
+[2025-09-09 12:39:13Z INFO ConfigurationManager] LoadSettings
+[2025-09-09 12:39:13Z INFO ConfigurationStore] IsConfigured()
+[2025-09-09 12:39:13Z INFO ConfigurationStore] IsConfigured: True
+[2025-09-09 12:39:13Z INFO ConfigurationManager] Is configured: True
+[2025-09-09 12:39:13Z INFO ConfigurationManager] Settings Loaded
+[2025-09-09 12:39:13Z INFO Runner] RunAsync
+[2025-09-09 12:39:13Z INFO ConfigurationManager] LoadMigratedSettings
+[2025-09-09 12:39:13Z INFO ConfigurationStore] IsMigratedConfigured()
+[2025-09-09 12:39:13Z INFO ConfigurationStore] IsMigratedConfigured: True
+[2025-09-09 12:39:13Z INFO ConfigurationStore] Read migrated setting file: 403 chars
+[2025-09-09 12:39:13Z INFO ConfigurationManager] Migrated Settings Loaded
+[2025-09-09 12:39:13Z INFO Runner] Loaded migrated settings from .runner_migrated file
+[2025-09-09 12:39:13Z INFO Runner] {
+  "AgentId": 22,
+  "AgentName": "CVC176",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelinesghubeus12.actions.githubusercontent.com/sNZ2N48AjgEQl8IRpssLx1CImSe18em33oXL7nwzxqUYHcFQWR/",
+  "GitHubUrl": "https://github.com/Ayushicybage/github-actions-Poc-",
+  "WorkFolder": "_work",
+  "UseV2Flow": true,
+  "ServerUrlV2": "https://broker.actions.githubusercontent.com/"
+}
+[2025-09-09 12:39:13Z INFO Runner] Attempting to create session using migrated settings
+[2025-09-09 12:39:13Z INFO Runner] Using BrokerMessageListener
+[2025-09-09 12:39:13Z INFO BrokerMessageListener] Using provided settings
+[2025-09-09 12:39:13Z INFO BrokerMessageListener] Using migrated settings from .runner_migrated
+[2025-09-09 12:39:13Z INFO BrokerMessageListener] {
+  "AgentId": 22,
+  "AgentName": "CVC176",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelinesghubeus12.actions.githubusercontent.com/sNZ2N48AjgEQl8IRpssLx1CImSe18em33oXL7nwzxqUYHcFQWR/",
+  "GitHubUrl": "https://github.com/Ayushicybage/github-actions-Poc-",
+  "WorkFolder": "_work",
+  "UseV2Flow": true,
+  "ServerUrlV2": "https://broker.actions.githubusercontent.com/"
+}
+[2025-09-09 12:39:13Z INFO BrokerMessageListener] Loading Credentials
+[2025-09-09 12:39:13Z INFO ConfigurationStore] HasCredentials()
+[2025-09-09 12:39:13Z INFO ConfigurationStore] stored True
+[2025-09-09 12:39:13Z INFO CredentialManager] GetCredentialProvider
+[2025-09-09 12:39:13Z INFO CredentialManager] Creating type OAuth
+[2025-09-09 12:39:13Z INFO CredentialManager] Creating credential type: OAuth
+[2025-09-09 12:39:13Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-09 12:39:13Z INFO BrokerMessageListener] Attempt to create session.
+[2025-09-09 12:39:13Z INFO BrokerMessageListener] Connecting to the Broker Server...
+[2025-09-09 12:39:13Z INFO ConfigurationStore] HasCredentials()
+[2025-09-09 12:39:13Z INFO ConfigurationStore] stored True
+[2025-09-09 12:39:13Z INFO CredentialManager] GetCredentialProvider
+[2025-09-09 12:39:13Z INFO CredentialManager] Creating type OAuth
+[2025-09-09 12:39:13Z INFO CredentialManager] Creating credential type: OAuth
+[2025-09-09 12:39:13Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-09 12:39:13Z INFO BrokerMessageListener] VssConnection created
+[2025-09-09 12:39:13Z INFO BrokerMessageListener] Connecting to the Runner server...
+[2025-09-09 12:39:13Z INFO RunnerServer] EstablishVssConnection
+[2025-09-09 12:39:13Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2025-09-09 12:39:13Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-09-09 12:39:13Z INFO RunnerServer] EstablishVssConnection
+[2025-09-09 12:39:13Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-09-09 12:39:13Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-09-09 12:39:13Z INFO RunnerServer] EstablishVssConnection
+[2025-09-09 12:39:13Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-09-09 12:39:13Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-09-09 12:39:14Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-09-09 12:39:14Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-09-09 12:39:14Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-09-09 12:39:14Z INFO BrokerMessageListener] VssConnection created
+[2025-09-09 12:39:14Z INFO Terminal] WRITE LINE: 
+[2025-09-09 12:39:15Z INFO Terminal] WRITE LINE: 
+[2025-09-09 12:39:15Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-09 12:39:15Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-09 12:39:16Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-09-09 12:39:17Z INFO BrokerMessageListener] Session created.
+[2025-09-09 12:39:17Z INFO Runner] Successfully created session with migrated settings
+[2025-09-09 12:39:17Z INFO Terminal] WRITE LINE: Current runner version: '2.328.0'
+[2025-09-09 12:39:17Z INFO Terminal] WRITE LINE: 2025-09-09 12:39:17Z: Listening for Jobs
+[2025-09-09 12:39:17Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2025-09-09 13:29:37Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-09 13:29:39Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-09-09 14:20:00Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-09 14:20:01Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-09-09 15:10:21Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-09 15:10:23Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-09-09 16:00:43Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-09 16:00:44Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-09-09 16:51:04Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-09 16:51:06Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-09-09 17:41:26Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-09 17:41:27Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-09-09 18:31:48Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-09 18:31:49Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-09-09 19:22:08Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-09 19:22:09Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-09-09 20:12:29Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-09 20:12:30Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-09-09 21:02:50Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-09 21:02:51Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-09-09 21:53:10Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-09 21:53:11Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-09-09 22:43:30Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-09 22:43:32Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-09-09 23:33:51Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-09 23:33:52Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-09-10 00:24:12Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-10 00:24:13Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-09-10 01:14:32Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-10 01:14:33Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-09-10 02:04:52Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-10 02:04:53Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-09-10 02:55:14Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-10 02:55:15Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-09-10 03:45:35Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-10 03:45:36Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-09-10 04:35:58Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\ayushidh\Desktop\github-actions-Poc-\actions-runner\actions-runner-win-x64-2.328.0\.credentials_rsaparams
+[2025-09-10 04:36:00Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
